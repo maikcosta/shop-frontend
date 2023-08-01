@@ -48,7 +48,7 @@ Para realizar a integração com o Backend, você pode [clonar o projeto](https:
 
 👉 [Link do repositório](https://github.com/maikcosta/shop)
 
-## Minhas Redes
+## 📱 Minhas Redes
 
 Meu site: [Maik Costa](https://maikcosta.github.io/) &nbsp;&middot;&nbsp; 
 
