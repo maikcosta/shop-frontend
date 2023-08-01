@@ -3,7 +3,7 @@
 Este projeto é um simples simples protótipo de um Shop Digital desenvolvido estudo em soluções full-stack. A aplicação foi desenvolvida usando **React, Typescript e React Query**.
 
 <h1 align="center">
-    <img src="./public/ShopAPP.gif" width="300"/>
+    <img src="./public/ShopAPP.gif" alt= "Passo a passo para subir aplicação"/>
 </h1>
 
 ## 💻 Requisitos
