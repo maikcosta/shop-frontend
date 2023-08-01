@@ -52,7 +52,7 @@ Para realizar a integração com o Backend, você pode [clonar o projeto](https:
 
 Meu site: [Maik Costa](https://maikcosta.github.io/) &nbsp;&middot;&nbsp; 
 
-Instagram: [@maikcosta](https://github.com/maikcosta) &nbsp;&middot;&nbsp;
+Instagram: [@maikcosta](https://www.instagram.com/maikcosta/) &nbsp;&middot;&nbsp;
 
 YouTube [@maikcosta](https://www.youtube.com/@maikcosta) &nbsp;&middot;&nbsp;
 
