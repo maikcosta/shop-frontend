@@ -17,7 +17,7 @@ pode colar o seguinte comando em seu terminal
 
 ```bash
 git clone https://github.com/maikcosta/shop-frontend
-cd frontend-cardapio
+cd shop-frontend
 ```
 
 Para instalar as dependências, execute o seguinte comando:
